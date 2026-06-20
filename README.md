@@ -29,9 +29,7 @@ and the full structured verdict side by side.
 streamlit run code/app.py
 ```
 
-<!-- screenshot: docs/app_screenshot.png -->
-*(Run it locally to see the claim viewer — sidebar filters by `claim_status`, main panel shows
-images and the full structured verdict side by side.)*
+![Claim viewer screenshot](docs/app_screenshot.png)
 
 ## Architecture
 
